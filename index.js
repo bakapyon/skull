@@ -40,7 +40,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'TEL;type=CELL;type=VOICE;waid=5511981736389:+55 11-98173-6389\n' 
             + 'END:VCARD' 
 blocked = []   
-prefix = ';'
+prefix = '/'
 limitawal = 30
 memberlimit = 1
 cr = '*Yui-chan | Horizon 🎴*'
